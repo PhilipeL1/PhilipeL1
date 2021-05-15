@@ -1,3 +1,4 @@
-Mi nombre es Philipe Andrés Lacourt Salgado
-Soy un estudiante de Ingenieria Civil Industrial
-Actualmente tratando de encontrar trabajo
+Mi nombre es Philipe y esta es mi página<br>
+¡Bienvenido!<br>
+En esta pagina vas a ver mi progreso como programador 👨‍💻<br>
+For the english/other language page, visit: blablabla
